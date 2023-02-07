@@ -1,0 +1,18 @@
+In directory: /home/reddy215/4061_s21/csci4061-team-repo/project2/Template
+shell.c
+wc
+Makefile
+util.h
+.nfs00000000040ba536000008fc
+cd.c
+util.o
+data.txt
+shell
+ls
+ls.c
+out.txt
+Hello
+util.c
+wc.c
+cd
+.nfs00000000040b8d4c000008fb
